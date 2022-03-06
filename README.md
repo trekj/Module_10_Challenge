@@ -1,5 +1,5 @@
 # Crypto Clustering
-In this Python project, we are going to use financial python programming with the unsupervised learning to creating a machine learning model that groups cryptocurrencies to assemble investment portfolios that are based on the profitability of those cryptocurrencies.
+In this Python project, we are going to use financial python programming with the unsupervised learning to create a machine learning model that groups cryptocurrencies to assemble investment portfolios that are based on the profitability of those cryptocurrencies.
 ## Technologies
 This project is written in ***Python 3.8*** with the following libraries:
 
